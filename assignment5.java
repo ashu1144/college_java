@@ -14,7 +14,7 @@ class f2 extends f1{
 }
 public class assignment5{    
         public static void main(String[] args) {
-        f1 ob=new f1();
+        f2 ob=new f2();
             ob.dsp();
         }
 }
