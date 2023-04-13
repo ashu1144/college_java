@@ -1,3 +1,4 @@
+
 interface s{
 public void callme();
 }
